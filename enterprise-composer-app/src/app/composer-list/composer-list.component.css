@@ -1,0 +1,12 @@
+/*
+  title: composer-list.component.css
+  author: ngi bujri
+  date: june 18 2023
+  description: composer-list styles
+*/
+
+.textSearch {
+  width: 30%;
+  float: right;
+  margin-bottom: 5px;
+}
